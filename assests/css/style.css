@@ -96,11 +96,6 @@ html{
 
 
 
-
-#main{
-    
-}
-
 #header{
     height: 46px;
     background-color: #000;
@@ -233,10 +228,6 @@ html{
     
 }
 
-
-#content{
-    
-}
 
 #content .content-section{
     width: 800px;
